@@ -1,7 +1,7 @@
 "use client";
 
 import { Link } from "@/i18n/routing";
-import { LinkType } from "@/constants/links";
+import { LinkType } from "@/types/link";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 import { useSelectedLayoutSegment } from "next/navigation";
