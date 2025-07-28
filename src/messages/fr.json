@@ -1,0 +1,48 @@
+{
+    "sidebar": {
+        "menu": "Menu",
+        "home": "Home",
+        "characters": "Characters",
+        "warp_counter": "Warp Counter",
+        "calculator": "Calculator",
+        "timeline": "Timeline",
+        "database": "Database",
+        "settings": "Settings",
+        "items": "Items",
+        "artifacts": "Artifacts",
+        "light_cones": "Light Cones",
+        "success": "Success"
+    },
+
+    "characters": {
+        "title": "Characters",
+        "statistics": {
+            "title": "Statistics",
+            "number_of_characters": "Number of characters: {number}",
+            "number_of_five_stars": "Number of <ssr>5★</ssr> characters: {number}",
+            "number_of_four_stars": "Number of <important>4★</important> characters: {number}"
+        }
+    },
+
+    "sorter": {
+        "title": "Sort by...",
+        "name": "Name",
+        "element": "Element",
+        "path": "Path",
+        "rarity": "Rarity"
+    },
+
+    "footer": {
+        "not-affiliated": "This website is not affiliated with HoYoverse.<br></br>Honkai Star Rail is a registered trademark of HoYoverse. Every logo, character, and image in this website are the intellectual property of HoYoverse.",
+        "discord": "Our Discord",
+        "official_links": "Official Links",
+        "credits": "Credits"
+    },
+
+    "socials": {
+        "discord": "Discord",
+        "twitter": "Twitter",
+        "reddit": "Reddit",
+        "github": "GitHub"
+    }
+}
